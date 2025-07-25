@@ -10,7 +10,7 @@
   <tr>
     <td valign="top" style="padding: 10px;">
 
-Hello! I'm Aniket Sundriyal, a passionate developer with a keen interest in building innovative solutions.
+Hello! I'm Priyanshu Riyal, a passionate developer with a keen interest in building innovative solutions.
 
 **🔭 What I'm currently working on:**
 * AI Projects.
